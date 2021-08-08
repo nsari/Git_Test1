@@ -6,6 +6,7 @@ public class Class1 {
         System.out.println("helllo");
 
         int a=56;
+        String str= "canimmm";
     }
 
 
